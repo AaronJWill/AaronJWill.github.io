@@ -19,3 +19,8 @@
   top: 0;
   left: 0;
 }
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
