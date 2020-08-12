@@ -107,13 +107,12 @@ p {
   color: white;
 }
 .btn {
-  background-color: DodgerBlue;
+  background-color: lightseagreen;
   border: none;
   color: white;
   padding: 12px 16px;
   font-size: 16px;
   cursor: pointer;
-  opacity: 0.7;
 }
 .btn:hover {
   background-color: RoyalBlue;
